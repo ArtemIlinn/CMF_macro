@@ -12,7 +12,7 @@ Data used is from the International Monetary Fund.
 
 
 
-### Skripts:
+### Code:
 - Part 1 presents a way to modify parsed data and adjust it to special project conditions and structure. As well as choosing key features that affect our target
 
 - Part 1.1 improves previous one and uses LassoChoosingTeam.py.
@@ -20,7 +20,7 @@ Data used is from the International Monetary Fund.
 - LassoChoosingTeam.py is an individual file that implements Lasso Linear Model, which helps defining most relevant features.
 
 
-# Data:
+### Data:
 - PCPS_12-10-2022 20-33-48-66_timeSeries.csv - Orignal IMF data
 - commodities.csv - converted IMF data 
 - commodities_with_date.csv - slightly different version of the privious one
