@@ -15,4 +15,4 @@ Data used is from the International Monetary Fund.
 
 - Part 1.1 improves previous one and uses LassoChoosingTeam.py.
 
-- LassoChoosingTeam.py is an individual file that implements lasso Linear Model, which helps defining most relevant features.
+- LassoChoosingTeam.py is an individual file that implements Lasso Linear Model, which helps defining most relevant features.
