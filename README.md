@@ -1,4 +1,4 @@
-# Macro
+# Macro CMF
 
 Project as a part of my Center of Mathematical Finance program.
 
