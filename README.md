@@ -1,11 +1,15 @@
 # Macro CMF
 
-Project as a part of my Center of Mathematical Finance program.
+# Project as a part of my Center of Mathematical Finance program.
 
 The goal is to determine macro factors that affect the price of the US Crude Oil. 
 Research tests several hypotheses including the one that there is no such dependence.  
 
 Data used is from the International Monetary Fund.
+
+
+![alt text](https://acyhk.com/images/products/products-commodities-banner-image.jpg)
+
 
 - Part 1 presents a way to modify parsed data and adjust it to special project conditions and structure. As well as choosing key features that affect our target
 
