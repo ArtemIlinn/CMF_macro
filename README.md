@@ -13,7 +13,7 @@ Data used is from the International Monetary Fund.
 
 
 ### Code:
-- Part 1.0 presents a way to modify parsed data and adjust it to special project conditions and structure. As well as choosing key features that affect our target
+- Part 1.0 presents a way to modify parsed data and adjust it to special project conditions and structure. As well as choosing key features that affect our target.
 
 - Part 1.1 improves previous one and uses LassoChoosingTeam.py.
 
