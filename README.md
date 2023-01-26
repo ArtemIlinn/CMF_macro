@@ -17,6 +17,8 @@ Data used is from the International Monetary Fund.
 
 - Part 1.1 improves previous one and uses LassoChoosingTeam.py.
 
+- Part 2.0 leverages he features with lightgbm, regression tests (such as F-test, T-test), includes Linear Regression, Boosting.
+
 - LassoChoosingTeam.py is an individual file that implements Lasso Linear Model, which helps defining most relevant features.
 
 
