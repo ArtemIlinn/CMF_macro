@@ -17,7 +17,7 @@ Data used is from the International Monetary Fund.
 
 - Part 1.1 Improves previous one and uses LassoChoosingTeam.py.
 
-- Part 2.0 Leverages the features with lightgbm, regression tests (such as F-test, T-test), includes Linear Regression, Boosting.
+- Part 2.0 Leverages the features with lightgbm, regression tests (such as F-test, T-test), includes VIF Score, Linear Regression, Boosting.
 
 - Part 2.1 Introduces seasonality and trends of data, as well as lagging. Also include previously used predictive models.
 
