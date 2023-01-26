@@ -13,13 +13,13 @@ Data used is from the International Monetary Fund.
 
 
 ### Code:
-- Part 1.0 presents a way to modify parsed data and adjust it to special project conditions and structure. As well as choosing key features that affect our target.
+- Part 1.0 Presents a way to modify parsed data and adjust it to special project conditions and structure. As well as choosing key features that affect our target.
 
-- Part 1.1 improves previous one and uses LassoChoosingTeam.py.
+- Part 1.1 Improves previous one and uses LassoChoosingTeam.py.
 
-- Part 2.0 leverages the features with lightgbm, regression tests (such as F-test, T-test), includes Linear Regression, Boosting.
+- Part 2.0 Leverages the features with lightgbm, regression tests (such as F-test, T-test), includes Linear Regression, Boosting.
 
-- Part 2.1 Seasonality and trends of data, as well as lagging. Also include previously used predictive models.
+- Part 2.1 Introduces seasonality and trends of data, as well as lagging. Also include previously used predictive models.
 
 - LassoChoosingTeam.py is an individual file that implements Lasso Linear Model, which helps defining most relevant features.
 
